@@ -1,0 +1,5 @@
+- Crie um objeto
+- Após a criação desse objeto passar novas propriedades sendo elas:
+- Nome
+- Idade
+- CPF;
